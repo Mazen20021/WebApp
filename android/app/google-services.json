@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "571354583788",
+    "firebase_url": "https://mathmasters-f23c1-default-rtdb.firebaseio.com",
+    "project_id": "mathmasters-f23c1",
+    "storage_bucket": "mathmasters-f23c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571354583788:android:aa84b5b6a1b6934a3e4bc9",
+        "android_client_info": {
+          "package_name": "com.mathmaster.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtQpi8oyOa_HRei_ioLXGQ4XbuLrxx3sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

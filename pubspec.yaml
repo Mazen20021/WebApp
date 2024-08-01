@@ -1,0 +1,47 @@
+name: MathMasters
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  firebase_core: ^3.1.0
+  toast: ^0.3.0
+  firebase_auth: ^5.1.0
+  firebase_database: ^11.0.1
+  cloud_firestore: ^5.0.1
+  url_launcher: ^6.3.0
+  google_fonts: ^6.2.1 
+  responsive_builder: ^0.4.0+1
+  flutter_marquee: ^2.0.1
+  flutter_screenutil: ^5.0.0
+  firebase_storage: ^12.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+     - web/
+     - assets/images/
+     - assets/images/BG.png
+     - assets/images/BG1.png
+     - assets/images/BG2.png
+     - assets/images/BG3.png
+     - assets/images/person.png
+     - assets/images/Devops.png
+     - assets/images/mr5.png
+     - assets/images/mr2.jpg
+     - assets/images/mr3.jpg
+     - assets/images/people.png
+     - assets/images/Mahmoud.png
+     - assets/images/Yassin.png
